@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">NEXT</string>
+    <string name="finish">FINISH</string>
+    <string name="back">BACK</string>
+
+    <array name="all_questions">
+        <item>What is the capital of Bhutan?;Ouagadougou;Pnohm Penh;*Thimphu;Zgighiti</item>
+        <item>What is the smallest country in the world?;Andorra;*Sealand;Mónaco;Vaticano</item>
+    </array>
+
+</resources>
